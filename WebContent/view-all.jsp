@@ -13,7 +13,7 @@
 	</div>
 	<%@ include file="includes/navigation.jsp" %>
 	<div class="container">
-		<!--  This is where we will output the class list -->
+		<!-- This is where we will output the class list -->
 	</div>
 	<%@ include file="includes/footer.jsp" %>
 	
