@@ -1,17 +1,15 @@
 <!doctype html>
 <html>
 <head>
-<title>Java Web Programming:Index</title>
-<meta name="description content="This is a servlet example that demonstrates
-	how to use IOto output the contents of an Excel spreadsheet to a web page.">
-<meta name="viewports" content="width=device-width, initial-scale=1.0">
-<link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">	
+<title>Error Page</title>
 </head>
 <body>
-
-		<h1>ERROR</h1>
-		<h3>Unspecified Error</h3>
-		<p>These things happen.. <b>:(<</b></p> 
-
+		<h1>Error!</h1>
+		<p>Unspecified Error</p>
+		<p>To continue, click the Back button.</p>
+		
+		<h2>Error Details</h2>
+		<p>Type: ${pageContext.exception["class"]}</p>
+		<p>Message: ${pageContext.exception.message}</p> 
 </body>
 </html>

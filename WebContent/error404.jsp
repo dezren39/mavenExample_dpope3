@@ -11,7 +11,7 @@
 
 		<h1>ERROR 404</h1>
 		<h3>File Not Found</h3>
-		<p>These things happen.. <b>:(<</b></p> 
-
+		<p>These things happen.. <b>:(</b></p> 
+		<p>To continue, click the Back button.</p>
 </body>
 </html>
