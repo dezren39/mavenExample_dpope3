@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
 <head>
-<title>Java Web Programming:Index</title>
-<meta name="description content="This is a servlet example that demonstrates
+<title>Java Web Programming: Index</title>
+<meta name="description" content="This is a servlet example that demonstrates
 	how to use IOto output the contents of an Excel spreadsheet to a web page.">
 <%@ include file="includes/styles.jsp" %>
 </head>
